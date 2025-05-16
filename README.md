@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This is a Music Recommendation System that uses facial emotion detection to recommend music tracks. The system detects the user's facial emotion (like happy, sad, angry, etc.) and recommends a song that matches the detected emotion.
+This is a Music Recommendation System that uses facial emotion detection to recommend music tracks. The system detects the user's facial emotion (like happy, sad, angry, etc.) and recommends a song that matches the detected emotion.I had used the Pre-Trained Model emotion_model.h5
 
 ## 🚀 Features
 
