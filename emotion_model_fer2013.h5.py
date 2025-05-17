@@ -67,5 +67,5 @@ plt.legend()
 plt.show()
 
 
-model.save('emotion_model.h5')
+model.save('C:\Users\Kishor\Miniproject\emotion_model_fer2013.py')
 print('Model trained and saved successfully as emotion_model.h5')
